@@ -1,4 +1,5 @@
 # Employee Access Parking Control System
+In collaboration with @anthony-cabacungan and @sameerauf1
 
 ## Project Description
 
